@@ -1,0 +1,16 @@
+{
+  "name": "xbb/social/icons",
+  "title": "Social Icons",
+  "category": "social",
+  "template": "block.tpl",
+  "props": {
+    "twitterUrl": {
+      "type": "string",
+      "default": "https://twitter.com"
+    },
+    "iconColor": {
+      "type": "string",
+      "default": "text-primary"
+    }
+  }
+}

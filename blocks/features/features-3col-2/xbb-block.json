@@ -1,0 +1,12 @@
+{
+  "name": "xbb/features/features-3col-2",
+  "title": "Features \u00b7 3 columns",
+  "category": "features",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Features \u00b7 3 columns"
+    }
+  }
+}

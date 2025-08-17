@@ -1,0 +1,12 @@
+/* XBB - Posts - Grid */
+.xbb-posts-grid.card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+.xbb-posts-grid.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15)!important;
+}
+.xbb-posts-grid.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mambax7/xbb",
+  "description": "XOOPS Bootstrap Blocks (XBB): Bootstrap 5 blocks, form rendering, data providers, and utilities.",
+  "type": "library",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "Xbb\\": "src/"
+    }
+  },
+  "extra": {
+    "xoops-preload": "Xbb\\Preload\\CoreBoot"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "xbb/hero/fullscreen-image",
+  "title": "Full-Screen Image Hero",
+  "category": "hero",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Your Site Slogan"
+    },
+    "content": {
+      "type": "string",
+      "default": "A compelling description of your value proposition."
+    },
+    "button_text": {
+      "type": "string",
+      "default": "Learn More"
+    },
+    "button_link": {
+      "type": "string",
+      "default": "#"
+    },
+    "background_image": {
+      "type": "string",
+      "default": "hero-background.jpg"
+    }
+  }
+}

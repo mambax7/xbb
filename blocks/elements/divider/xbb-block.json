@@ -1,0 +1,12 @@
+{
+  "name": "xbb/elements/divider",
+  "title": "Element \u00b7 Divider",
+  "category": "elements",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Element \u00b7 Divider"
+    }
+  }
+}

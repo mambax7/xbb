@@ -1,0 +1,39 @@
+{
+  "name": "xbb/counter/animated-stats",
+  "title": "Animated Counters",
+  "category": "counter",
+  "template": "block.tpl",
+  "style": "style.css",
+  "script": "script.js",
+  "props": {
+    "counters": {
+      "type": "array",
+      "default": [
+        {
+          "icon": "bi bi-journal-check",
+          "target": "1232",
+          "label": "Projects Completed"
+        },
+        {
+          "icon": "bi bi-people",
+          "target": "850",
+          "label": "Happy Clients"
+        }
+      ],
+      "items": {
+        "type": "object",
+        "properties": {
+          "icon": {
+            "type": "string"
+          },
+          "target": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

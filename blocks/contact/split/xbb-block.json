@@ -1,0 +1,32 @@
+{
+  "name": "xbb/contact/split",
+  "title": "Contact-Split",
+  "category": "contact",
+  "template": "block.tpl",
+  "variations": [
+    "split"
+  ],
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Get in touch"
+    },
+    "subtitle": {
+      "type": "string",
+      "default": "We reply within 24 hours."
+    },
+    "show_map": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "layout": {
+    "defaults": {
+      "col": 12,
+      "col_md": 6
+    }
+  },
+  "providers": [
+    "Xbb\\Blocks\\Provider\\CurrentUserContactProvider"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "xbb/content/about-us",
+  "title": "About Us with Image",
+  "category": "content",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "About Our Company"
+    },
+    "content": {
+      "type": "string",
+      "default": "<p>This is the main body of the about us section. It supports rich text.</p>"
+    },
+    "image_url": {
+      "type": "string",
+      "default": "about-us.jpg"
+    }
+  }
+}

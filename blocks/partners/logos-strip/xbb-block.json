@@ -1,0 +1,68 @@
+{
+  "name": "xbb/partners/logos-strip",
+  "title": "Partners \u00b7 Logos strip",
+  "category": "partners",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": ""
+    },
+    "subtitle": {
+      "type": "string",
+      "default": ""
+    },
+    "variant": {
+      "type": "enum",
+      "values": [
+        "default",
+        "primary",
+        "secondary",
+        "contrast"
+      ],
+      "default": "default"
+    },
+    "align": {
+      "type": "enum",
+      "values": [
+        "",
+        "start",
+        "center",
+        "end"
+      ],
+      "default": ""
+    },
+    "bg": {
+      "type": "enum",
+      "values": [
+        "",
+        "",
+        "light",
+        "dark",
+        "muted"
+      ],
+      "default": ""
+    },
+    "id": {
+      "type": "string",
+      "default": ""
+    },
+    "class": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "collections": {
+    "items": {
+      "type": "array",
+      "itemProps": {
+        "url": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

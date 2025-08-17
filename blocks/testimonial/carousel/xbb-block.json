@@ -1,0 +1,16 @@
+{
+  "name": "xbb/testimonial/carousel",
+  "title": "Testimonial Carousel",
+  "category": "testimonial",
+  "template": "block.tpl",
+  "props": {
+    "quote1": {
+      "type": "string",
+      "default": "Great service!"
+    },
+    "author1": {
+      "type": "string",
+      "default": "Client"
+    }
+  }
+}

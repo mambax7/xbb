@@ -1,0 +1,16 @@
+{
+  "name": "xbb/forms/subscription",
+  "title": "Subscription Form",
+  "category": "forms",
+  "template": "block.tpl",
+  "props": {
+    "placeholder": {
+      "type": "string",
+      "default": "Enter email"
+    },
+    "buttonText": {
+      "type": "string",
+      "default": "Subscribe"
+    }
+  }
+}

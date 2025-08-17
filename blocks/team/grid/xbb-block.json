@@ -1,0 +1,20 @@
+{
+  "name": "xbb/team/grid",
+  "title": "Team Grid",
+  "category": "team",
+  "template": "block.tpl",
+  "props": {
+    "member1Name": {
+      "type": "string",
+      "default": "John Doe"
+    },
+    "member1Role": {
+      "type": "string",
+      "default": "CEO"
+    },
+    "image_url": {
+      "type": "string",
+      "default": "https://i.pravatar.cc/200?img=4"
+    }
+  }
+}

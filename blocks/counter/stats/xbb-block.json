@@ -1,0 +1,16 @@
+{
+  "name": "xbb/counter/stats",
+  "title": "Statistic Counters",
+  "category": "counter",
+  "template": "block.tpl",
+  "props": {
+    "count1": {
+      "type": "number",
+      "default": 100
+    },
+    "label1": {
+      "type": "string",
+      "default": "Users"
+    }
+  }
+}

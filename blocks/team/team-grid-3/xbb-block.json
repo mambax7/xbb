@@ -1,0 +1,27 @@
+{
+  "name": "xbb/team/team-grid-3",
+  "title": "Team \u00b7 Grid 3",
+  "category": "team",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Team \u00b7 Grid 3"
+    },
+    "name": {
+      "type": "string",
+      "default": "John Doe"
+    },
+    "role": {
+      "type": "string",
+      "default": "CEO"
+    },
+    "photo_url": {
+      "type": "string",
+      "default": "https://i.pravatar.cc/200?img=3"
+    }
+  }
+}
+
+
+

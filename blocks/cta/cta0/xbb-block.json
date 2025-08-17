@@ -1,0 +1,27 @@
+{
+  "name": "xbb/cta/cta0",
+  "title": "Call to action",
+  "category": "cta",
+  "template": "block.tpl",
+  "variations": [
+    "bar"
+  ],
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Ready to ship?"
+    },
+    "subtitle": {
+      "type": "string",
+      "default": "Install the XBB library via Composer."
+    },
+    "cta_label": {
+      "type": "string",
+      "default": "Install now"
+    },
+    "cta_url": {
+      "type": "string",
+      "default": "#"
+    }
+  }
+}

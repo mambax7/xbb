@@ -1,0 +1,8 @@
+{
+  "name": "xbb/ui/section",
+  "title": "Divider: Section Dividers",
+  "category": "ui",
+  "template": "block.tpl",
+  "description": "A collection of different visual dividers and spacers.",
+  "props": {}
+}

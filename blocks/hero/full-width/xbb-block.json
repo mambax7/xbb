@@ -1,0 +1,20 @@
+{
+  "name": "xbb/hero/full-width",
+  "title": "Full-Width Hero",
+  "category": "hero",
+  "template": "block.tpl",
+  "props": {
+    "heading": {
+      "type": "string",
+      "default": "Welcome"
+    },
+    "subheading": {
+      "type": "string",
+      "default": "Discover more"
+    },
+    "bgImage": {
+      "type": "string",
+      "default": "url('/images/hero-bg.jpg')"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "xbb/social/links",
+  "title": "Social: Follow Links",
+  "category": "social",
+  "template": "block.tpl",
+  "description": "Displays icon links to social media profiles.",
+  "style": "style.css",
+  "props": {
+    "twitter_url": {
+      "type": "string",
+      "default": "#"
+    },
+    "facebook_url": {
+      "type": "string",
+      "default": "#"
+    },
+    "instagram_url": {
+      "type": "string",
+      "default": "#"
+    },
+    "linkedin_url": {
+      "type": "string",
+      "default": "#"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "xbb/ui/ui-alert",
+  "title": "UI \u00b7 Alert",
+  "category": "ui",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "UI \u00b7 Alert"
+    }
+  }
+}

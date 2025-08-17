@@ -1,0 +1,26 @@
+{
+  "name": "xbb/testimonial/slider",
+  "title": "Testimonial Slider",
+  "category": "testimonial",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "testimonials": {
+      "type": "array",
+      "default": [
+        {
+          "avatar_url": "https://picsum.photos/seed/avatar1/150",
+          "quote": "XOOPS has transformed our workflow!",
+          "author_name": "Jane Doe",
+          "author_title": "CEO, Example Inc."
+        },
+        {
+          "avatar_url": "https://picsum.photos/seed/avatar2/150",
+          "quote": "We love the flexibility of XOOPS Bootstrap Blocks.",
+          "author_name": "John Smith",
+          "author_title": "Developer Advocate"
+        }
+      ]
+    }
+  }
+}

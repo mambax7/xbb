@@ -1,0 +1,12 @@
+{
+  "name": "xbb/contact/contact-simple-2",
+  "title": "Contact \u00b7 Simple form",
+  "category": "contact",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Contact \u00b7 Simple form"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "xbb/partners/logo-wall",
+  "title": "Partner/Client Logo Wall",
+  "category": "partners",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "partners": {
+      "type": "array",
+      "default": [
+        { "url": "#", "logo_url": "https://picsum.photos/seed/logo1/200/100", "name": "Partner One" },
+        { "url": "#", "logo_url": "https://picsum.photos/seed/logo2/200/100", "name": "Partner Two" },
+        { "url": "#", "logo_url": "https://picsum.photos/seed/logo3/200/100", "name": "Partner Three" },
+        { "url": "#", "logo_url": "https://picsum.photos/seed/logo4/200/100", "name": "Partner Four" },
+        { "url": "#", "logo_url": "https://picsum.photos/seed/logo5/200/100", "name": "Partner Five" },
+        { "url": "#", "logo_url": "https://picsum.photos/seed/logo6/200/100", "name": "Partner Six" }
+      ],
+      "items": {
+        "type": "object",
+        "props": {
+          "url": { "type": "string", "default": "#" },
+          "logo_url": { "type": "string", "default": "https://picsum.photos/seed/logo/200/100" },
+          "name": { "type": "string", "default": "Partner" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "xbb/partners/logos",
+  "title": "Partner Logos",
+  "category": "partners",
+  "template": "block.tpl",
+  "props": {
+    "logo1Src": {
+      "type": "string",
+      "default": "/images/partner1.png"
+    },
+    "logo1Alt": {
+      "type": "string",
+      "default": "Partner 1"
+    }
+  }
+}

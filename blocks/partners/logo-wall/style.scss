@@ -1,0 +1,13 @@
+/* XBB - Partners */
+.xbb-partners.partner-logo {
+    max-height: 60px;
+    filter: grayscale(100%);
+    opacity: 0.7;
+    transition: all 0.3s ease-in-out;
+    margin-bottom: 2rem;
+}
+.xbb-partners.partner-logo:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+    transform: scale(1.1);
+}

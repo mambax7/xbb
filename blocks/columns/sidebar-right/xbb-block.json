@@ -1,0 +1,9 @@
+{
+  "name": "xbb/columns/sidebar-right",
+  "title": "Layout: Main Content with Right Sidebar",
+  "category": "layout",
+  "template": "block.tpl",
+  "style": "style.css",
+  "description": "A classic two-column layout with a wider main content area (8 units) and a narrower sidebar (4 units) on the right. Renders the main xoops_contents and right blocks (xoops_rblocks).",
+  "props": {}
+}

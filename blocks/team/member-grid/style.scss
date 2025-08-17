@@ -1,0 +1,19 @@
+/* XBB - Team */
+.xbb-team.card {
+    transition: all.3s;
+}
+.xbb-team.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0.5rem 1rem rgba(0,0,0,.15)!important;
+}
+.xbb-team.card-img-top {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+.xbb-team.social-links a {
+    font-size: 1.2rem;
+    transition: color.2s;
+}
+.xbb-team.social-links a:hover {
+    color: #0d6efd;
+}

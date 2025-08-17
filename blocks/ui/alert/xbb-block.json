@@ -1,0 +1,16 @@
+{
+  "name": "xbb/ui/alert",
+  "title": "Alert Message",
+  "category": "ui",
+  "template": "block.tpl",
+  "props": {
+    "message": {
+      "type": "string",
+      "default": "Info message"
+    },
+    "type": {
+      "type": "string",
+      "default": "alert-info"
+    }
+  }
+}

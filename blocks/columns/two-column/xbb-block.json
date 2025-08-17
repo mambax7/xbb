@@ -1,0 +1,25 @@
+{
+  "name": "xbb/columns/two-column",
+  "title": "Layout: Two Equal Columns",
+  "category": "layout",
+  "template": "block.tpl",
+  "description": "A layout that provides two equally-sized columns. Can render left blocks (xoops_lblocks) in the first column.",
+  "props": {
+    "title1": {
+      "type": "string",
+      "default": "Column 1"
+    },
+    "content1": {
+      "type": "string",
+      "default": "This is the content for the first column."
+    },
+    "title2": {
+      "type": "string",
+      "default": "Column 2"
+    },
+    "content2": {
+      "type": "string",
+      "default": "This is the content for the second column."
+    }
+  }
+}

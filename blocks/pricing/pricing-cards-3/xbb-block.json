@@ -1,0 +1,12 @@
+{
+  "name": "xbb/pricing/pricing-cards-3",
+  "title": "Pricing \u00b7 Cards 3",
+  "category": "pricing",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Pricing \u00b7 Cards 3"
+    }
+  }
+}

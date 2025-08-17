@@ -1,0 +1,38 @@
+{
+  "name": "xbb/features/icon-grid",
+  "title": "Icon-Based Feature Grid",
+  "category": "features",
+  "template": "block.tpl",
+  "style": "style.css",  
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Our Core Features"
+    },
+    "content": {
+      "type": "string",
+      "default": "A brief introduction to the features."
+    },
+    "features": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "properties": {
+          "icon": {
+            "type": "string",
+            "default": "bi bi-check-circle"
+          },
+          "title": {
+            "type": "string",
+            "default": "Feature Title"
+          },
+          "description": {
+            "type": "string",
+            "default": "Feature description text."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "xbb/cta/simple-centered",
+  "title": "Simple Centered CTA",
+  "category": "cta",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Ready to get started?"
+    },
+    "content": {
+      "type": "string",
+      "default": "Join us today and discover a new way to manage your content."
+    },
+    "button_text": {
+      "type": "string",
+      "default": "Sign Up Now"
+    },
+    "button_link": {
+      "type": "string",
+      "default": "/register.php"
+    }
+  }
+}

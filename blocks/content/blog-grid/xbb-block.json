@@ -1,0 +1,29 @@
+{
+  "name": "xbb/content/blog-grid",
+  "title": "Content Blog Grid",
+  "category": "content",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "posts": {
+      "type": "array",
+      "default": [
+        {
+          "url": "#",
+          "image_url": "https://picsum.photos/400/250?random=1",
+          "title": "Sample Blog Post",
+          "category_url": "#",
+          "category_name": "Technology",
+          "excerpt": "Sample excerpt for preview purposes",
+          "author_url": "#",
+          "author_name": "John Doe",
+          "date": "Jan 15, 2024"
+        }
+      ]
+    }
+  },
+  "preview": {
+    "mockData": true,
+    "provider": "MockBlogGridProvider"
+  }
+}

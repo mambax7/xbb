@@ -1,0 +1,12 @@
+{
+  "name": "xbb/partners/partners-logos",
+  "title": "Partners \u00b7 Logos",
+  "category": "partners",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Partners \u00b7 Logos"
+    }
+  }
+}

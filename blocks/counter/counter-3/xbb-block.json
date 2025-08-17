@@ -1,0 +1,12 @@
+{
+  "name": "xbb/counter/counter-3",
+  "title": "Counters \u00b7 3",
+  "category": "counter",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Counters \u00b7 3"
+    }
+  }
+}

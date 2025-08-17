@@ -1,0 +1,12 @@
+{
+  "name": "xbb/header/header-simple-2",
+  "title": "Header \u00b7 Simple",
+  "category": "header",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Header \u00b7 Simple"
+    }
+  }
+}

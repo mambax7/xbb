@@ -1,0 +1,16 @@
+{
+  "name": "xbb/pricing/three-tier",
+  "title": "Three-Tier Pricing",
+  "category": "pricing",
+  "template": "block.tpl",
+  "props": {
+    "plan1Name": {
+      "type": "string",
+      "default": "Basic"
+    },
+    "plan1Price": {
+      "type": "string",
+      "default": "$10/mo"
+    }
+  }
+}

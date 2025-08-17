@@ -1,0 +1,18 @@
+/* XBB - CTA - Background Image */
+.xbb-cta-parallax {
+    background: linear-gradient(rgba(40, 58, 90, 0.7), rgba(40, 58, 90, 0.7)), url(...) fixed center center;
+    background-size: cover;
+    padding: 120px 0;
+}
+.xbb-cta-parallax h3 {
+    font-size: 28px;
+    font-weight: 700;
+}
+.xbb-cta-parallax p {
+    color: #f8f9fa;
+}
+.xbb-cta-parallax.btn-outline-light {
+    font-weight: 600;
+    padding: 12px 30px;
+    transition: all 0.3s;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "xbb/cta/parallax-bg",
+  "title": "CTA with Background Image",
+  "category": "cta",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "A Call To Action"
+    },
+    "content": {
+      "type": "string",
+      "default": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    "button_text": {
+      "type": "string",
+      "default": "Click Here"
+    },
+    "button_link": {
+      "type": "string",
+      "default": "#"
+    },
+    "background_image": {
+      "type": "string",
+      "default": "cta-bg.jpg"
+    }
+  }
+}

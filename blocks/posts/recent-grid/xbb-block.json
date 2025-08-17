@@ -1,0 +1,22 @@
+{
+  "name": "xbb/posts/recent-grid",
+  "title": "Recent Posts Grid",
+  "category": "posts",
+  "template": "block.tpl",
+  "description": "Displays a grid of posts. Expects an array of post objects.",
+  "style": "style.css",  
+  "props": {
+    "numPosts": {
+      "type": "number",
+      "default": 3
+    },
+    "category": {
+      "type": "string",
+      "default": "all"
+    },
+    "posts": {
+      "type": "array",
+      "default": []
+    }
+  }
+}

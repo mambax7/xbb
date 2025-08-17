@@ -1,0 +1,9 @@
+{
+  "name": "xbb/footer/simple-centered",
+  "title": "Footer: Simple Centered",
+  "category": "footer",
+  "template": "block.tpl",
+  "style": "style.css",
+  "description": "A minimalist footer with a centered copyright notice.",
+  "props": {}
+}

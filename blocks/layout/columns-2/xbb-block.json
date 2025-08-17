@@ -1,0 +1,12 @@
+{
+  "name": "xbb/layout/columns-2",
+  "title": "Columns \u00b7 2",
+  "category": "layout",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Columns \u00b7 2"
+    }
+  }
+}

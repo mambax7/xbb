@@ -1,0 +1,16 @@
+{
+  "name": "xbb/contact/form",
+  "title": "Contact Form",
+  "category": "contact",
+  "template": "block.tpl",
+  "props": {
+    "submitUrl": {
+      "type": "string",
+      "default": "/contact-submit"
+    },
+    "placeholderEmail": {
+      "type": "string",
+      "default": "Your email"
+    }
+  }
+}

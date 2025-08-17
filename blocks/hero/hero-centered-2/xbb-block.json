@@ -1,0 +1,12 @@
+{
+  "name": "xbb/hero/hero-centered-2",
+  "title": "Hero \u00b7 Centered",
+  "category": "hero",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Hero \u00b7 Centered"
+    }
+  }
+}

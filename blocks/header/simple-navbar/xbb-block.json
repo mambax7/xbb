@@ -1,0 +1,21 @@
+{
+  "name": "xbb/header/simple-navbar",
+  "title": "Simple Navbar Header",
+  "category": "header",
+  "template": "block.tpl",
+  "style": "style.css",  
+  "props": {
+    "logoText": {
+      "type": "string",
+      "default": "Your Site"
+    },
+    "bgColor": {
+      "type": "string",
+      "default": "bg-light"
+    },
+    "sticky": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

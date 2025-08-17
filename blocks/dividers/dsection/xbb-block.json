@@ -1,0 +1,16 @@
+{
+  "name": "xbb/dividers/dsection",
+  "title": "Section Divider",
+  "category": "dividers",
+  "template": "block.tpl",
+  "props": {
+    "style": {
+      "type": "string",
+      "default": "border-top: 2px solid #ccc;"
+    },
+    "margin": {
+      "type": "string",
+      "default": "my-5"
+    }
+  }
+}

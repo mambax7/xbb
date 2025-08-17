@@ -1,0 +1,76 @@
+{
+  "name": "xbb/pricing/pricing-3cards",
+  "title": "Pricing \u00b7 3 cards",
+  "category": "pricing",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": ""
+    },
+    "subtitle": {
+      "type": "string",
+      "default": ""
+    },
+    "variant": {
+      "type": "enum",
+      "values": [
+        "default",
+        "primary",
+        "secondary",
+        "contrast"
+      ],
+      "default": "default"
+    },
+    "align": {
+      "type": "enum",
+      "values": [
+        "",
+        "start",
+        "center",
+        "end"
+      ],
+      "default": ""
+    },
+    "bg": {
+      "type": "enum",
+      "values": [
+        "",
+        "",
+        "light",
+        "dark",
+        "muted"
+      ],
+      "default": ""
+    },
+    "id": {
+      "type": "string",
+      "default": ""
+    },
+    "class": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "collections": {
+    "items": {
+      "type": "array",
+      "itemProps": {
+        "name": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "features": {
+          "type": "array",
+          "itemProps": {
+            "_": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

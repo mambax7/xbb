@@ -1,0 +1,14 @@
+{
+  "name": "xbb/posts/post-list",
+  "title": "Posts: List",
+  "category": "posts",
+  "template": "block.tpl",
+  "style": "style.css",
+  "description": "Displays a list of posts with a thumbnail image. Expects an array of post objects.",
+  "props": {
+    "posts": {
+      "type": "array",
+      "default": []
+    }
+  }
+}

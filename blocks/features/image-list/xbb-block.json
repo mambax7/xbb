@@ -1,0 +1,34 @@
+{
+  "name": "xbb/features/image-list",
+  "title": "Image-Based Feature List",
+  "category": "features",
+  "template": "block.tpl",
+  "style": "style.css",  
+  "props": {
+    "features": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "properties": {
+          "image_url": {
+            "type": "string",
+            "default": "feature-image.jpg"
+          },
+          "title": {
+            "type": "string",
+            "default": "Feature Title"
+          },
+          "description": {
+            "type": "string",
+            "default": "Detailed feature description."
+          },
+          "link_url": {
+            "type": "string",
+            "default": "#"
+          }
+        }
+      }
+    }
+  }
+}

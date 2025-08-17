@@ -1,0 +1,39 @@
+{
+  "name": "xbb/contact/form-with-details",
+  "title": "Contact Form with Details",
+  "category": "contact",
+  "template": "block.tpl",
+  "data_source": "module",
+  "style": "style.css",
+  "notes": "This block is a hybrid. The contact details are managed by attributes, but the form itself is injected from a module via the <{$contact_form_content}> variable.",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Contact Us"
+    },
+    "content": {
+      "type": "string",
+      "default": "Have a question? We'd love to hear from you."
+    },
+    "office_title": {
+      "type": "string",
+      "default": "Our Office"
+    },
+    "office_address": {
+      "type": "string",
+      "default": "123 Main Street<br>Anytown, USA 12345"
+    },
+    "contact_title": {
+      "type": "string",
+      "default": "Contact Info"
+    },
+    "phone_number": {
+      "type": "string",
+      "default": "(555) 123-4567"
+    },
+    "email_address": {
+      "type": "string",
+      "default": "contact@example.com"
+    }
+  }
+}

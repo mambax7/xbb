@@ -1,0 +1,34 @@
+{
+  "name": "xbb/content/faq-accordion",
+  "title": "Accordion/FAQ Section",
+  "category": "content",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Frequently Asked Questions"
+    },
+    "content": {
+      "type": "string",
+      "default": "A brief introduction to the FAQ section."
+    },
+    "faqs": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string",
+            "default": "What is the question?"
+          },
+          "answer": {
+            "type": "string",
+            "default": "This is the answer."
+          }
+        }
+      }
+    }
+  }
+}

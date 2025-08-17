@@ -1,0 +1,16 @@
+{
+  "name": "xbb/footer/multi-column-2",
+  "title": "Multi-Column Footer",
+  "category": "footer",
+  "template": "block.tpl",
+  "props": {
+    "copyright": {
+      "type": "string",
+      "default": "\u00a9 2025 Your Site"
+    },
+    "bgColor": {
+      "type": "string",
+      "default": "bg-dark text-white"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "xbb/features/xfeatures",
+  "title": "Features",
+  "category": "features",
+  "template": "block.tpl",
+  "variations": [
+    "grid"
+  ],
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Everything you need"
+    },
+    "subtitle": {
+      "type": "string",
+      "default": "A fast way to ship modern XOOPS pages."
+    },
+    "features": {
+      "type": "array",
+      "default": [
+        {
+          "icon": "bi-lightning-charge",
+          "title": "Fast",
+          "text": "Drop-in Bootstrap 5 renderer."
+        },
+        {
+          "icon": "bi-grid",
+          "title": "Composable",
+          "text": "Blocks built as Smarty partials."
+        },
+        {
+          "icon": "bi-braces",
+          "title": "Extensible",
+          "text": "Providers & manifests."
+        },
+        {
+          "icon": "bi-shield-check",
+          "title": "Safe",
+          "text": "Permissions & server rendering."
+        }
+      ]
+    }
+  }
+}

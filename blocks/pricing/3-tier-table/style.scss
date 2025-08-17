@@ -1,0 +1,39 @@
+/* XBB - Pricing - Standard */
+.xbb-pricing.card {
+    border: none;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+.xbb-pricing hr {
+    margin: 1.5rem 0;
+}
+.xbb-pricing.card-title {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+    letter-spacing:.1rem;
+    font-weight: bold;
+}
+.xbb-pricing.card-price {
+    font-size: 3rem;
+    margin: 0;
+}
+.xbb-pricing.card-price.period {
+    font-size: 0.8rem;
+}
+.xbb-pricing ul li {
+    margin-bottom: 1rem;
+}
+.xbb-pricing.fa-ul {
+    margin-left: 0;
+    list-style: none;
+    padding-left: 0;
+}
+.xbb-pricing.fa-li {
+    position: static;
+    left: -2em;
+    width: 2em;
+    text-align: center;
+    line-height: inherit;
+    margin-right: 0.5em;
+}

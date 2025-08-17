@@ -1,0 +1,20 @@
+{
+  "name": "xbb/features/three-grid",
+  "title": "Three-Feature Grid",
+  "category": "features",
+  "template": "block.tpl",
+  "props": {
+    "feature1Title": {
+      "type": "string",
+      "default": "Feature 1"
+    },
+    "feature1Desc": {
+      "type": "string",
+      "default": "Description"
+    },
+    "iconClass": {
+      "type": "string",
+      "default": "bi bi-star"
+    }
+  }
+}

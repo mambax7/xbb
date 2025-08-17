@@ -1,0 +1,12 @@
+{
+  "name": "xbb/cta/cta-basic",
+  "title": "Call to action \u00b7 Basic",
+  "category": "cta",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Call to action \u00b7 Basic"
+    }
+  }
+}

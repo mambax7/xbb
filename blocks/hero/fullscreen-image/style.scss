@@ -1,0 +1,20 @@
+/* XBB - Hero - Full Screen Image */
+.xbb-hero-fullscreen {
+    position: relative;
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.xbb-hero-fullscreen.xbb-hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.xbb-hero-fullscreen.container {
+    position: relative;
+    z-index: 2;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "xbb/elements/button-group",
+  "title": "Button Group",
+  "category": "elements",
+  "template": "block.tpl",
+  "props": {
+    "btn1Text": {
+      "type": "string",
+      "default": "Button 1"
+    },
+    "btnColor": {
+      "type": "string",
+      "default": "btn-outline-secondary"
+    }
+  }
+}

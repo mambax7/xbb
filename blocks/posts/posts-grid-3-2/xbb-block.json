@@ -1,0 +1,12 @@
+{
+  "name": "xbb/posts/posts-grid-3-2",
+  "title": "Posts \u00b7 Grid 3",
+  "category": "posts",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Posts \u00b7 Grid 3"
+    }
+  }
+}

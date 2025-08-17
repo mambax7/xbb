@@ -1,0 +1,21 @@
+{
+  "name": "xbb/hero/video-background",
+  "title": "Video Background Hero",
+  "category": "hero",
+  "template": "block.tpl",
+  "style": "style.css",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Welcome to Our World"
+    },
+    "content": {
+      "type": "string",
+      "default": "Experience our story in motion."
+    },
+    "video_file": {
+      "type": "string",
+      "default": "hero-video.mp4"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "xbb/footer/footer-simple-2",
+  "title": "Footer \u00b7 Simple",
+  "category": "footer",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Footer \u00b7 Simple"
+    }
+  }
+}

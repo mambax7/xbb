@@ -1,0 +1,20 @@
+{
+  "name": "xbb/shop/product-card2",
+  "title": "Product Card",
+  "category": "shop",
+  "template": "block.tpl",
+  "props": {
+    "productName": {
+      "type": "string",
+      "default": "Item"
+    },
+    "price": {
+      "type": "string",
+      "default": "$20"
+    },
+    "imageSrc": {
+      "type": "string",
+      "default": "https://picsum.photos/400/300?1"
+    }
+  }
+}

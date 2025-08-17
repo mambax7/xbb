@@ -1,0 +1,31 @@
+{
+  "name": "xbb/hero/xhero",
+  "title": "Hero",
+  "category": "hero",
+  "template": "block.tpl",
+  "variations": [
+    "simple"
+  ],
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Build beautiful XOOPS sites"
+    },
+    "subtitle": {
+      "type": "string",
+      "default": "Modern Bootstrap 5 blocks and forms."
+    },
+    "cta_label": {
+      "type": "string",
+      "default": "Get started"
+    },
+    "cta_url": {
+      "type": "string",
+      "default": "#"
+    },
+    "image_url": {
+      "type": "string",
+      "default": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/* XBB - Header - With CTA */
+.xbb-header-cta.navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.xbb-header-cta.nav-item.btn {
+    padding: 0.5rem 1.5rem;
+}
+/* On mobile, make the button full width */
+@media (max-width: 991.98px) {
+   .xbb-header-cta.nav-item.btn {
+        width: 100%;
+        margin-top: 0.5rem;
+    }
+}

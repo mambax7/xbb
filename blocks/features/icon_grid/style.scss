@@ -1,0 +1,19 @@
+/* XBB - Features - Icon Grid */
+.xbb-features-icon-grid.feature-item {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease-in-out;
+}
+.xbb-features-icon-grid.feature-item:hover {
+    transform: translateY(-5px);
+}
+.xbb-features-icon-grid.feature-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+    background: #e9f2ff;
+    border-radius: 50%;
+}

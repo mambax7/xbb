@@ -1,0 +1,30 @@
+{
+  "name": "xbb/posts/recent",
+  "title": "Recent posts",
+  "category": "posts",
+  "template": "block.tpl",
+  "variations": [
+    "list"
+  ],
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Latest posts"
+    },
+    "subtitle": {
+      "type": "string",
+      "default": "What\u2019s new"
+    },
+    "limit": {
+      "type": "number",
+      "default": 6
+    },
+    "browse_url": {
+      "type": "string",
+      "default": "#"
+    }
+  },
+  "providers": [
+    "Xbb\\Blocks\\Provider\\RecentPostsProvider"
+  ]
+}

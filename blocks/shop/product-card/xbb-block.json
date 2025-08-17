@@ -1,0 +1,19 @@
+{
+  "name": "xbb/shop/product-card",
+  "title": "Shop: Product Card",
+  "category": "shop",
+  "template": "block.tpl",
+  "description": "A single card for displaying a product with an image, name, price, and add to cart button.",
+  "style": "style.css",
+  "props": {
+    "product": {
+      "type": "object",
+      "default": {
+        "name": "Sample Product",
+        "summary": "This is a brief summary of the awesome product.",
+        "image_url": "https://picsum.photos/400/300?1",
+        "price": "99.99"
+      }
+    }
+  }
+}

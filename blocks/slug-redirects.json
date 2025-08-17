@@ -1,0 +1,149 @@
+{
+  "generated_at": "2025-08-12T23:49:49.516667Z",
+  "redirects": [
+    {
+      "from": "xbb/contact/contact-simple",
+      "to": "xbb/contact/contact-simple-2"
+    },
+    {
+      "from": "xbb/content/about_us",
+      "to": "xbb/content/about-us"
+    },
+    {
+      "from": "xbb/content/blog_grid",
+      "to": "xbb/content/blog-grid"
+    },
+    {
+      "from": "xbb/counters/animated-stats",
+      "to": "xbb/counter/animated-stats"
+    },
+    {
+      "from": "xbb/counters/counters-4",
+      "to": "xbb/counter/counters-4"
+    },
+    {
+      "from": "xbb/counters/stats",
+      "to": "xbb/counter/stats"
+    },
+    {
+      "from": "xbb/cta/simple_centered",
+      "to": "xbb/cta/simple-centered"
+    },
+    {
+      "from": "xbb/features/features-3col",
+      "to": "xbb/features/features-3col-2"
+    },
+    {
+      "from": "xbb/features/icon_grid",
+      "to": "xbb/features/icon-grid"
+    },
+    {
+      "from": "xbb/features/image_list",
+      "to": "xbb/features/image-list"
+    },
+    {
+      "from": "xbb/footers/footer-simple",
+      "to": "xbb/footer/footer-simple"
+    },
+    {
+      "from": "xbb/footer/footer-simple",
+      "to": "xbb/footer/footer-simple-2"
+    },
+    {
+      "from": "xbb/footers/multi_column",
+      "to": "xbb/footer/multi-column"
+    },
+    {
+      "from": "xbb/footers/multi-column",
+      "to": "xbb/footer/multi-column-2"
+    },
+    {
+      "from": "xbb/footers/simple_centered",
+      "to": "xbb/footer/simple-centered"
+    },
+    {
+      "from": "xbb/headers/cta",
+      "to": "xbb/header/cta"
+    },
+    {
+      "from": "xbb/headers/header-simple",
+      "to": "xbb/header/header-simple"
+    },
+    {
+      "from": "xbb/header/header-simple",
+      "to": "xbb/header/header-simple-2"
+    },
+    {
+      "from": "xbb/headers/simple-navbar",
+      "to": "xbb/header/simple-navbar"
+    },
+    {
+      "from": "xbb/hero/fullscreen_image",
+      "to": "xbb/hero/fullscreen-image"
+    },
+    {
+      "from": "xbb/hero/hero-centered",
+      "to": "xbb/hero/hero-centered-2"
+    },
+    {
+      "from": "xbb/columns/2column",
+      "to": "xbb/layout/2column"
+    },
+    {
+      "from": "xbb/columns/columns-2col",
+      "to": "xbb/layout/columns-2col"
+    },
+    {
+      "from": "xbb/columns/sidebar_right",
+      "to": "xbb/layout/sidebar-right"
+    },
+    {
+      "from": "xbb/columns/three-column",
+      "to": "xbb/layout/three-column"
+    },
+    {
+      "from": "xbb/columns/two-column",
+      "to": "xbb/layout/two-column"
+    },
+    {
+      "from": "xbb/posts/post_list",
+      "to": "xbb/posts/post-list"
+    },
+    {
+      "from": "xbb/posts/posts-grid-3",
+      "to": "xbb/posts/posts-grid-3-2"
+    },
+    {
+      "from": "xbb/shop/product-card",
+      "to": "xbb/shop/product-card-2"
+    },
+    {
+      "from": "xbb/social/social-icons",
+      "to": "xbb/social/social-icons-2"
+    },
+    {
+      "from": "xbb/testimonials/carousel",
+      "to": "xbb/testimonial/carousel"
+    },
+    {
+      "from": "xbb/testimonials/slider",
+      "to": "xbb/testimonial/slider"
+    },
+    {
+      "from": "xbb/testimonials/testimonials-cards",
+      "to": "xbb/testimonial/testimonials-cards"
+    },
+    {
+      "from": "xbb/dividers/divider-hr",
+      "to": "xbb/ui/divider-hr"
+    },
+    {
+      "from": "xbb/dividers/dsection",
+      "to": "xbb/ui/dsection"
+    },
+    {
+      "from": "xbb/dividers/section",
+      "to": "xbb/ui/section"
+    }
+  ]
+}

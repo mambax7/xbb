@@ -1,0 +1,30 @@
+{
+  "name": "xbb/footer/multi-column",
+  "title": "Footer: Multi-Column",
+  "category": "footer",
+  "template": "block.tpl",
+  "style": "style.css",
+  "description": "A comprehensive footer with multiple columns for site info, links, and contact details.",
+  "props": {
+    "contact_address": {
+      "type": "string",
+      "default": "Anytown, USA 12345"
+    },
+    "contact_email": {
+      "type": "string",
+      "default": "info@example.com"
+    },
+    "contact_phone": {
+      "type": "string",
+      "default": "+ 01 234 567 88"
+    },
+    "copyright": {
+      "type": "string",
+      "default": "© 2025 Your Site"
+    },
+    "bgColor": {
+      "type": "string",
+      "default": "bg-blue text-white"
+    }
+  }
+}

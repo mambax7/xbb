@@ -1,0 +1,749 @@
+{
+  "generated_at": "2025-08-12T23:49:49.516667Z",
+  "blocks": [
+    {
+      "name": "xbb/contact/contact-simple",
+      "title": "Contact \u00b7 Simple form",
+      "category": "contact",
+      "slug": "contact-simple",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/contact/contact-simple/preview.svg"
+    },
+    {
+      "name": "xbb/contact/contact-simple-2",
+      "title": "Contact \u00b7 Simple form",
+      "category": "contact",
+      "slug": "contact-simple-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/contact/contact-simple-2/preview.svg"
+    },
+    {
+      "name": "xbb/contact/float",
+      "title": "Contact-Floating",
+      "category": "contact",
+      "slug": "float",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/contact/float/preview.svg"
+    },
+    {
+      "name": "xbb/contact/form",
+      "title": "Contact Form",
+      "category": "contact",
+      "slug": "form",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/contact/form/preview.svg"
+    },
+    {
+      "name": "xbb/contact/form-with-details",
+      "title": "Contact Form with Details",
+      "category": "contact",
+      "slug": "form-with-details",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/contact/form-with-details/preview.svg"
+    },
+    {
+      "name": "xbb/contact/split",
+      "title": "Contact-Split",
+      "category": "contact",
+      "slug": "split",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/contact/split/preview.svg"
+    },
+    {
+      "name": "xbb/content/about-us",
+      "title": "About Us with Image",
+      "category": "content",
+      "slug": "about-us",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/content/about-us/preview.svg"
+    },
+    {
+      "name": "xbb/content/blog-grid",
+      "title": "Content Blog Grid",
+      "category": "content",
+      "slug": "blog-grid",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/content/blog-grid/preview.svg"
+    },
+    {
+      "name": "xbb/content/content-2col",
+      "title": "Content \u00b7 2 columns",
+      "category": "content",
+      "slug": "content-2col",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/content/content-2col/preview.svg"
+    },
+    {
+      "name": "xbb/content/content-split",
+      "title": "Content \u00b7 Split",
+      "category": "content",
+      "slug": "content-split",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/content/content-split/preview.svg"
+    },
+    {
+      "name": "xbb/content/faq-accordion",
+      "title": "Faq Accordion",
+      "category": "content",
+      "slug": "faq-accordion",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/content/faq-accordion/preview.svg"
+    },
+    {
+      "name": "xbb/content/text-image",
+      "title": "Text with Image",
+      "category": "content",
+      "slug": "text-image",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/content/text-image/preview.svg"
+    },
+    {
+      "name": "xbb/counter/animated-stats",
+      "title": "Animated Counters",
+      "category": "counter",
+      "slug": "animated-stats",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/counter/animated-stats/preview.svg"
+    },
+    {
+      "name": "xbb/counter/counter-3",
+      "title": "Counters \u00b7 3",
+      "category": "counter",
+      "slug": "counter-3",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/counter/counter-3/preview.svg"
+    },
+    {
+      "name": "xbb/counter/counters-4",
+      "title": "Counters \u00b7 4 stats",
+      "category": "counter",
+      "slug": "counters-4",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/counter/counters-4/preview.svg"
+    },
+    {
+      "name": "xbb/counter/stats",
+      "title": "Statistic Counters",
+      "category": "counter",
+      "slug": "stats",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/counter/stats/preview.svg"
+    },
+    {
+      "name": "xbb/cta/centered",
+      "title": "Centered Call to Action",
+      "category": "cta",
+      "slug": "centered",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/cta/centered/preview.svg"
+    },
+    {
+      "name": "xbb/cta/cta-banner",
+      "title": "Cta Banner",
+      "category": "cta",
+      "slug": "cta-banner",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/cta/cta-banner/preview.svg"
+    },
+    {
+      "name": "xbb/cta/cta-basic",
+      "title": "Call to action \u00b7 Basic",
+      "category": "cta",
+      "slug": "cta-basic",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/cta/cta-basic/preview.svg"
+    },
+    {
+      "name": "xbb/cta/cta0",
+      "title": "Call to action",
+      "category": "cta",
+      "slug": "cta0",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/cta/cta0/preview.svg"
+    },
+    {
+      "name": "xbb/cta/parallax-bg",
+      "title": "CTA with Background Image",
+      "category": "cta",
+      "slug": "parallax-bg",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/cta/parallax-bg/preview.svg"
+    },
+    {
+      "name": "xbb/cta/simple-centered",
+      "title": "Simple Centered CTA",
+      "category": "cta",
+      "slug": "simple-centered",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/cta/simple-centered/preview.svg"
+    },
+    {
+      "name": "xbb/elements/button-group",
+      "title": "Button Group",
+      "category": "elements",
+      "slug": "button-group",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/elements/button-group/preview.svg"
+    },
+    {
+      "name": "xbb/elements/buttons-group",
+      "title": "Elements \u00b7 Buttons group",
+      "category": "elements",
+      "slug": "buttons-group",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/elements/buttons-group/preview.svg"
+    },
+    {
+      "name": "xbb/elements/divider",
+      "title": "Element \u00b7 Divider",
+      "category": "elements",
+      "slug": "divider",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/elements/divider/preview.svg"
+    },
+    {
+      "name": "xbb/features/features-3col",
+      "title": "Features \u00b7 3 columns",
+      "category": "features",
+      "slug": "features-3col",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/features/features-3col/preview.svg"
+    },
+    {
+      "name": "xbb/features/features-3col-2",
+      "title": "Features \u00b7 3 columns",
+      "category": "features",
+      "slug": "features-3col-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/features/features-3col-2/preview.svg"
+    },
+    {
+      "name": "xbb/features/icon-grid",
+      "title": "Icon Grid",
+      "category": "features",
+      "slug": "icon-grid",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/features/icon-grid/preview.svg"
+    },
+    {
+      "name": "xbb/features/image-list",
+      "title": "Image List",
+      "category": "features",
+      "slug": "image-list",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/features/image-list/preview.svg"
+    },
+    {
+      "name": "xbb/features/three-grid",
+      "title": "Three-Feature Grid",
+      "category": "features",
+      "slug": "three-grid",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/features/three-grid/preview.svg"
+    },
+    {
+      "name": "xbb/features/xfeatures",
+      "title": "Features",
+      "category": "features",
+      "slug": "xfeatures",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/features/xfeatures/preview.svg"
+    },
+    {
+      "name": "xbb/footer/footer-simple",
+      "title": "Footer \u00b7 Simple",
+      "category": "footer",
+      "slug": "footer-simple",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/footer/footer-simple/preview.svg"
+    },
+    {
+      "name": "xbb/footer/footer-simple-2",
+      "title": "Footer \u00b7 Simple",
+      "category": "footer",
+      "slug": "footer-simple-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/footer/footer-simple-2/preview.svg"
+    },
+    {
+      "name": "xbb/footer/multi-column",
+      "title": "Footer: Multi-Column",
+      "category": "footer",
+      "slug": "multi-column",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/footer/multi-column/preview.svg"
+    },
+    {
+      "name": "xbb/footer/multi-column-2",
+      "title": "Multi-Column Footer",
+      "category": "footer",
+      "slug": "multi-column-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/footer/multi-column-2/preview.svg"
+    },
+    {
+      "name": "xbb/footer/simple-centered",
+      "title": "Footer: Simple Centered",
+      "category": "footer",
+      "slug": "simple-centered",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/footer/simple-centered/preview.svg"
+    },
+    {
+      "name": "xbb/forms/form-contact",
+      "title": "Form \u00b7 Contact",
+      "category": "forms",
+      "slug": "form-contact",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/forms/form-contact/preview.svg"
+    },
+    {
+      "name": "xbb/forms/form-newsletter",
+      "title": "Form \u00b7 Newsletter",
+      "category": "forms",
+      "slug": "form-newsletter",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/forms/form-newsletter/preview.svg"
+    },
+    {
+      "name": "xbb/forms/subscription",
+      "title": "Subscription Form",
+      "category": "forms",
+      "slug": "subscription",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/forms/subscription/preview.svg"
+    },
+    {
+      "name": "xbb/header/cta",
+      "title": "Header: With CTA Button",
+      "category": "header",
+      "slug": "cta",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/header/cta/preview.svg"
+    },
+    {
+      "name": "xbb/header/header-simple",
+      "title": "Header \u00b7 Simple Navbar",
+      "category": "header",
+      "slug": "header-simple",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/header/header-simple/preview.svg"
+    },
+    {
+      "name": "xbb/header/header-simple-2",
+      "title": "Header \u00b7 Simple",
+      "category": "header",
+      "slug": "header-simple-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/header/header-simple-2/preview.svg"
+    },
+    {
+      "name": "xbb/header/simple-navbar",
+      "title": "Simple Navbar Header",
+      "category": "header",
+      "slug": "simple-navbar",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/header/simple-navbar/preview.svg"
+    },
+    {
+      "name": "xbb/hero/full-width",
+      "title": "Full-Width Hero",
+      "category": "hero",
+      "slug": "full-width",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/hero/full-width/preview.svg"
+    },
+    {
+      "name": "xbb/hero/fullscreen-image",
+      "title": "Full-Screen Image Hero",
+      "category": "hero",
+      "slug": "fullscreen-image",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/hero/fullscreen-image/preview.svg"
+    },
+    {
+      "name": "xbb/hero/hero-centered",
+      "title": "Hero \u00b7 Centered",
+      "category": "hero",
+      "slug": "hero-centered",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/hero/hero-centered/preview.svg"
+    },
+    {
+      "name": "xbb/hero/hero-centered-2",
+      "title": "Hero \u00b7 Centered",
+      "category": "hero",
+      "slug": "hero-centered-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/hero/hero-centered-2/preview.svg"
+    },
+    {
+      "name": "xbb/hero/video-background",
+      "title": "Video Background Hero",
+      "category": "hero",
+      "slug": "video-background",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/hero/video-background/preview.svg"
+    },
+    {
+      "name": "xbb/hero/xhero",
+      "title": "Hero",
+      "category": "hero",
+      "slug": "xhero",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/hero/xhero/preview.svg"
+    },
+    {
+      "name": "xbb/layout/2column",
+      "title": "Two-Column Layout",
+      "category": "layout",
+      "slug": "2column",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/layout/2column/preview.svg"
+    },
+    {
+      "name": "xbb/layout/columns-2",
+      "title": "Columns \u00b7 2",
+      "category": "layout",
+      "slug": "columns-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/layout/columns-2/preview.svg"
+    },
+    {
+      "name": "xbb/layout/columns-2col",
+      "title": "Columns \u00b7 2 equal",
+      "category": "layout",
+      "slug": "columns-2col",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/layout/columns-2col/preview.svg"
+    },
+    {
+      "name": "xbb/layout/sidebar-right",
+      "title": "Layout: Main Content with Right Sidebar",
+      "category": "layout",
+      "slug": "sidebar-right",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/layout/sidebar-right/preview.svg"
+    },
+    {
+      "name": "xbb/layout/three-column",
+      "title": "Layout: Three Equal Columns",
+      "category": "layout",
+      "slug": "three-column",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/layout/three-column/preview.svg"
+    },
+    {
+      "name": "xbb/layout/two-column",
+      "title": "Layout: Two Equal Columns",
+      "category": "layout",
+      "slug": "two-column",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/layout/two-column/preview.svg"
+    },
+    {
+      "name": "xbb/partners/logo-wall",
+      "title": "Logo Wall",
+      "category": "partners",
+      "slug": "logo-wall",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/partners/logo-wall/preview.svg"
+    },
+    {
+      "name": "xbb/partners/logos",
+      "title": "Logos",
+      "category": "partners",
+      "slug": "logos",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/partners/logos/preview.svg"
+    },
+    {
+      "name": "xbb/partners/logos-strip",
+      "title": "Partners \u00b7 Logos strip",
+      "category": "partners",
+      "slug": "logos-strip",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/partners/logos-strip/preview.svg"
+    },
+    {
+      "name": "xbb/partners/partners-logos",
+      "title": "Partners \u00b7 Logos",
+      "category": "partners",
+      "slug": "partners-logos",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/partners/partners-logos/preview.svg"
+    },
+    {
+      "name": "xbb/posts/post-list",
+      "title": "Posts: List",
+      "category": "posts",
+      "slug": "post-list",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/posts/post-list/preview.svg"
+    },
+    {
+      "name": "xbb/posts/posts-grid-3",
+      "title": "Posts \u00b7 Grid 3",
+      "category": "posts",
+      "slug": "posts-grid-3",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/posts/posts-grid-3/preview.svg"
+    },
+    {
+      "name": "xbb/posts/posts-grid-3-2",
+      "title": "Posts \u00b7 Grid 3",
+      "category": "posts",
+      "slug": "posts-grid-3-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/posts/posts-grid-3-2/preview.svg"
+    },
+    {
+      "name": "xbb/posts/recent",
+      "title": "Recent posts",
+      "category": "posts",
+      "slug": "recent",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/posts/recent/preview.svg"
+    },
+    {
+      "name": "xbb/posts/recent-grid",
+      "title": "Posts: Grid",
+      "category": "posts",
+      "slug": "recent-grid",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/posts/recent-grid/preview.svg"
+    },
+    {
+      "name": "xbb/pricing/3-tier-table",
+      "title": "3 Tier Table",
+      "category": "pricing",
+      "slug": "3-tier-table",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/pricing/3-tier-table/preview.svg"
+    },
+    {
+      "name": "xbb/pricing/pricing-3cards",
+      "title": "Pricing \u00b7 3 cards",
+      "category": "pricing",
+      "slug": "pricing-3cards",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/pricing/pricing-3cards/preview.svg"
+    },
+    {
+      "name": "xbb/pricing/pricing-cards-3",
+      "title": "Pricing \u00b7 Cards 3",
+      "category": "pricing",
+      "slug": "pricing-cards-3",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/pricing/pricing-cards-3/preview.svg"
+    },
+    {
+      "name": "xbb/pricing/three-tier",
+      "title": "Three-Tier Pricing",
+      "category": "pricing",
+      "slug": "three-tier",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/pricing/three-tier/preview.svg"
+    },
+    {
+      "name": "xbb/shop/product-card",
+      "title": "Shop: Product Card",
+      "category": "shop",
+      "slug": "product-card",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/shop/product-card/preview.svg"
+    },
+    {
+      "name": "xbb/shop/product-card-2",
+      "title": "Shop \u00b7 Product card",
+      "category": "shop",
+      "slug": "product-card-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/shop/product-card-2/preview.svg"
+    },
+    {
+      "name": "xbb/shop/product-card2",
+      "title": "Product Card",
+      "category": "shop",
+      "slug": "product-card2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/shop/product-card2/preview.svg"
+    },
+    {
+      "name": "xbb/shop/products-grid-4",
+      "title": "Shop \u00b7 Products grid 4",
+      "category": "shop",
+      "slug": "products-grid-4",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/shop/products-grid-4/preview.svg"
+    },
+    {
+      "name": "xbb/social/buttons",
+      "title": "Social: Share Buttons",
+      "category": "social",
+      "slug": "buttons",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/social/buttons/preview.svg"
+    },
+    {
+      "name": "xbb/social/icons",
+      "title": "Social Icons",
+      "category": "social",
+      "slug": "icons",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/social/icons/preview.svg"
+    },
+    {
+      "name": "xbb/social/links",
+      "title": "Social: Follow Links",
+      "category": "social",
+      "slug": "links",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/social/links/preview.svg"
+    },
+    {
+      "name": "xbb/social/social-icons",
+      "title": "Social \u00b7 Icons",
+      "category": "social",
+      "slug": "social-icons",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/social/social-icons/preview.svg"
+    },
+    {
+      "name": "xbb/social/social-icons-2",
+      "title": "Social \u00b7 Icons",
+      "category": "social",
+      "slug": "social-icons-2",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/social/social-icons-2/preview.svg"
+    },
+    {
+      "name": "xbb/team/grid",
+      "title": "Team Grid",
+      "category": "team",
+      "slug": "grid",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/team/grid/preview.svg"
+    },
+    {
+      "name": "xbb/team/member-grid",
+      "title": "Member Grid",
+      "category": "team",
+      "slug": "member-grid",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/team/member-grid/preview.svg"
+    },
+    {
+      "name": "xbb/team/team-3",
+      "title": "Team \u00b7 3 members",
+      "category": "team",
+      "slug": "team-3",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/team/team-3/preview.svg"
+    },
+    {
+      "name": "xbb/team/team-grid-3",
+      "title": "Team \u00b7 Grid 3",
+      "category": "team",
+      "slug": "team-grid-3",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/team/team-grid-3/preview.svg"
+    },
+    {
+      "name": "xbb/testimonial/carousel",
+      "title": "Testimonial Carousel",
+      "category": "testimonial",
+      "slug": "carousel",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/testimonial/carousel/preview.svg"
+    },
+    {
+      "name": "xbb/testimonial/slider",
+      "title": "Slider",
+      "category": "testimonial",
+      "slug": "slider",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/testimonial/slider/preview.svg"
+    },
+    {
+      "name": "xbb/testimonial/testimonial-1",
+      "title": "Testimonial \u00b7 Single",
+      "category": "testimonial",
+      "slug": "testimonial-1",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/testimonial/testimonial-1/preview.svg"
+    },
+    {
+      "name": "xbb/testimonial/testimonials-cards",
+      "title": "Testimonials \u00b7 Cards",
+      "category": "testimonial",
+      "slug": "testimonials-cards",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/testimonial/testimonials-cards/preview.svg"
+    },
+    {
+      "name": "xbb/ui/accordion-basic",
+      "title": "UI \u00b7 Accordion",
+      "category": "ui",
+      "slug": "accordion-basic",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/ui/accordion-basic/preview.svg"
+    },
+    {
+      "name": "xbb/ui/alert",
+      "title": "Alert Message",
+      "category": "ui",
+      "slug": "alert",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/ui/alert/preview.svg"
+    },
+    {
+      "name": "xbb/ui/alerts",
+      "title": "UI: Alerts",
+      "category": "ui",
+      "slug": "alerts",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/ui/alerts/preview.svg"
+    },
+    {
+      "name": "xbb/ui/buttons",
+      "title": "UI: Buttons",
+      "category": "ui",
+      "slug": "buttons",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/ui/buttons/preview.svg"
+    },
+    {
+      "name": "xbb/ui/divider-hr",
+      "title": "Divider \u00b7 HR",
+      "category": "ui",
+      "slug": "divider-hr",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/ui/divider-hr/preview.svg"
+    },
+    {
+      "name": "xbb/ui/dsection",
+      "title": "Section Divider",
+      "category": "ui",
+      "slug": "dsection",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/ui/dsection/preview.svg"
+    },
+    {
+      "name": "xbb/ui/section",
+      "title": "Divider: Section Dividers",
+      "category": "ui",
+      "slug": "section",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/ui/section/preview.svg"
+    },
+    {
+      "name": "xbb/ui/ui-alert",
+      "title": "UI \u00b7 Alert",
+      "category": "ui",
+      "slug": "ui-alert",
+      "template": "block.tpl",
+      "thumbnail": "modules/xbb/blocks/ui/ui-alert/preview.svg"
+    }
+  ]
+}

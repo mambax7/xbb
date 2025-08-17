@@ -1,0 +1,14 @@
+/* XBB - Posts - List */
+.xbb-posts-list.post-item {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1rem;
+}
+.xbb-posts-list.post-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0!important;
+}
+.xbb-posts-list.post-item img {
+    height: 80px;
+    object-fit: cover;
+}

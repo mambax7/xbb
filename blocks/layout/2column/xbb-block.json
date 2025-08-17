@@ -1,0 +1,16 @@
+{
+  "name": "xbb/layout/2column",
+  "title": "Two-Column Layout",
+  "category": "layout",
+  "template": "block.tpl",
+  "props": {
+    "col1Content": {
+      "type": "string",
+      "default": "Column 1"
+    },
+    "col2Content": {
+      "type": "string",
+      "default": "Column 2"
+    }
+  }
+}

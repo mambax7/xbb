@@ -1,0 +1,9 @@
+{
+  "name": "xbb/ui/buttons",
+  "title": "UI: Buttons",
+  "category": "ui",
+  "template": "block.tpl",
+  "description": "A collection of Bootstrap button styles.",
+  "style": "style.css",
+  "props": {}
+}

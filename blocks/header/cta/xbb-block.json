@@ -1,0 +1,18 @@
+{
+  "name": "xbb/header/cta",
+  "title": "Header: With CTA Button",
+  "category": "header",
+  "template": "block.tpl",
+  "description": "A full-width header with navigation links and a prominent call-to-action button.",
+  "style": "style.css",
+  "props": {
+    "cta_label": {
+      "type": "string",
+      "default": "Get Started Free"
+    },
+    "cta_url": {
+      "type": "string",
+      "default": "<{$xoops_url}>/register.php"
+    }
+  }
+}

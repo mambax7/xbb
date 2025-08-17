@@ -1,0 +1,59 @@
+{
+  "name": "xbb/content/content-split",
+  "title": "Content \u00b7 Split",
+  "category": "content",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Content Section title"
+    },
+    "subtitle": {
+      "type": "string",
+      "default": "Short supporting paragraph for the Subtitle."
+    },
+    "variant": {
+      "type": "enum",
+      "values": [
+        "default",
+        "primary",
+        "secondary",
+        "contrast"
+      ],
+      "default": "default"
+    },
+    "align": {
+      "type": "enum",
+      "values": [
+        "",
+        "start",
+        "center",
+        "end"
+      ],
+      "default": ""
+    },
+    "bg": {
+      "type": "enum",
+      "values": [
+        "",
+        "",
+        "light",
+        "dark",
+        "muted"
+      ],
+      "default": ""
+    },
+    "id": {
+      "type": "string",
+      "default": ""
+    },
+    "class": {
+      "type": "string",
+      "default": ""
+    },
+    "image_url": {
+      "type": "string",
+      "default": "https://picsum.photos/800/500"
+    }
+  }
+}

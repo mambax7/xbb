@@ -1,0 +1,54 @@
+{
+  "name": "xbb/pricing/3-tier-table",
+  "title": "Standard 3-Tier Pricing Table",
+  "category": "pricing",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Our Pricing Plans"
+    },
+    "content": {
+      "type": "string",
+      "default": "Choose the plan that's right for you."
+    },
+    "plans": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "price": {
+            "type": "string"
+          },
+          "is_featured": {
+            "type": "boolean"
+          },
+          "button_url": {
+            "type": "string"
+          },
+          "button_text": {
+            "type": "string"
+          },
+          "features": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "text": {
+                  "type": "string"
+                },
+                "included": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

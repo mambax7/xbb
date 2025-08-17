@@ -1,0 +1,12 @@
+{
+  "name": "xbb/content/content-2col",
+  "title": "Content \u00b7 2 columns",
+  "category": "content",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Content \u00b7 2 columns"
+    }
+  }
+}

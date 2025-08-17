@@ -1,0 +1,20 @@
+{
+  "name": "xbb/cta/centered",
+  "title": "Centered Call to Action",
+  "category": "cta",
+  "template": "block.tpl",
+  "props": {
+    "text": {
+      "type": "string",
+      "default": "Join us today!"
+    },
+    "buttonText": {
+      "type": "string",
+      "default": "Sign Up"
+    },
+    "buttonColor": {
+      "type": "string",
+      "default": "btn-primary"
+    }
+  }
+}

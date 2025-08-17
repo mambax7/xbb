@@ -1,0 +1,71 @@
+{
+  "name": "xbb/team/member-grid",
+  "title": "Team Member Grid",
+  "category": "team",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Our Team"
+    },
+    "content": {
+      "type": "string",
+      "default": "Meet the talented people behind our success."
+    },
+    "team_members": {
+      "type": "array",
+      "default": [
+        {
+          "photo_url": "https://i.pravatar.cc/200?img=11",
+          "name": "Alice Johnson",
+          "role": "CEO",
+          "twitter_url": "https://twitter.com/alice",
+          "facebook_url": "https://facebook.com/alice",
+          "linkedin_url": "https://linkedin.com/in/alice"
+        },
+        {
+          "photo_url": "https://i.pravatar.cc/200?img=12",
+          "name": "Bob Smith",
+          "role": "CTO",
+          "twitter_url": "https://twitter.com/bob",
+          "facebook_url": "https://facebook.com/bob",
+          "linkedin_url": "https://linkedin.com/in/bob"
+        },
+        {
+          "photo_url": "https://i.pravatar.cc/200?img=13",
+          "name": "Carol Davis",
+          "role": "Lead Designer",
+          "twitter_url": "https://twitter.com/carol",
+          "facebook_url": "https://facebook.com/carol",
+          "linkedin_url": "https://linkedin.com/in/carol"
+        }
+      ],
+      "items": {
+        "type": "object",
+        "props": {
+          "photo_url": {
+            "type": "string",
+            "default": "https://i.pravatar.cc/200?img=4"
+          },
+          "name": {
+            "type": "string",
+            "default": "Joe Doe"
+          },
+          "role": {
+            "type": "string",
+            "default": "CIO"
+          },
+          "twitter_url": {
+            "type": "string"
+          },
+          "facebook_url": {
+            "type": "string"
+          },
+          "linkedin_url": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

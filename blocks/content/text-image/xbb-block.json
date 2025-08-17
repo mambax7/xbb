@@ -1,0 +1,20 @@
+{
+  "name": "xbb/content/text-image",
+  "title": "Text with Image",
+  "category": "content",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Section Title"
+    },
+    "content": {
+      "type": "string",
+      "default": "Your content here"
+    },
+    "imageSrc": {
+      "type": "string",
+      "default": "/images/content.jpg"
+    }
+  }
+}

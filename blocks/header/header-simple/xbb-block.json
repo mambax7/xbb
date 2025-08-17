@@ -1,0 +1,55 @@
+{
+  "name": "xbb/header/header-simple",
+  "title": "Header \u00b7 Simple Navbar",
+  "category": "header",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": ""
+    },
+    "subtitle": {
+      "type": "string",
+      "default": ""
+    },
+    "variant": {
+      "type": "enum",
+      "values": [
+        "default",
+        "primary",
+        "secondary",
+        "contrast"
+      ],
+      "default": "default"
+    },
+    "align": {
+      "type": "enum",
+      "values": [
+        "",
+        "start",
+        "center",
+        "end"
+      ],
+      "default": ""
+    },
+    "bg": {
+      "type": "enum",
+      "values": [
+        "",
+        "",
+        "light",
+        "dark",
+        "muted"
+      ],
+      "default": ""
+    },
+    "id": {
+      "type": "string",
+      "default": ""
+    },
+    "class": {
+      "type": "string",
+      "default": ""
+    }
+  }
+}

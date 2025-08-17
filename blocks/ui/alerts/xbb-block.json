@@ -1,0 +1,9 @@
+{
+  "name": "xbb/ui/alerts",
+  "title": "UI: Alerts",
+  "category": "ui",
+  "template": "block.tpl",
+  "description": "A collection of Bootstrap alert styles.",
+  "style": "style.css",
+  "props": {}
+}

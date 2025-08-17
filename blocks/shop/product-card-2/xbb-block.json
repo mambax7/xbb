@@ -1,0 +1,12 @@
+{
+  "name": "xbb/shop/product-card-2",
+  "title": "Shop \u00b7 Product card",
+  "category": "shop",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Shop \u00b7 Product card"
+    }
+  }
+}

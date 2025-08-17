@@ -1,0 +1,12 @@
+{
+  "name": "xbb/social/social-icons-2",
+  "title": "Social \u00b7 Icons",
+  "category": "social",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Social \u00b7 Icons"
+    }
+  }
+}

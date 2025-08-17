@@ -1,0 +1,12 @@
+{
+  "name": "xbb/testimonial/testimonial-1",
+  "title": "Testimonial \u00b7 Single",
+  "category": "testimonial",
+  "template": "block.tpl",
+  "props": {
+    "title": {
+      "type": "string",
+      "default": "Testimonial \u00b7 Single"
+    }
+  }
+}

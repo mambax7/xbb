@@ -1,0 +1,10 @@
+{
+  "name": "xbb/social/buttons",
+  "title": "Social: Share Buttons",
+  "category": "social",
+  "template": "block.tpl",
+  "description": "Displays share buttons for various social networks. Requires the block.js to function correctly.",
+  "style": "style.css",
+  "script": "script.js",
+  "props": {}
+}
